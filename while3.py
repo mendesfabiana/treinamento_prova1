@@ -6,7 +6,7 @@ cont = 0
 while cont < 10:
     n = lista.append(int(input('Digite um número: ')))
     cont += 1
-print('')
+print()
 print(lista)
 
 par = 0
