@@ -1,4 +1,5 @@
-# testando
+# peça 10 números ao usuário e no final mostre quantos são pares e quantos são impares
+
 lista = []
 cont = 0
 
